@@ -8,13 +8,13 @@
 Summary:	Hash::MultiValue - Store multiple values per key
 #Summary(pl.UTF-8):	
 Name:		perl-Hash-MultiValue
-Version:	0.08
+Version:	0.10
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Hash/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d8e2ae6a0685d52641b3a5de20ae4116
+# Source0-md5:	386b9ed884f3af6c20dca6d5fbefbb91
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/Hash-MultiValue/
 BuildRequires:	perl-devel >= 1:5.8.0
