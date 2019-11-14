@@ -7,13 +7,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Hash::MultiValue - Store multiple values per key
 Name:		perl-Hash-MultiValue
-Version:	0.10
+Version:	0.16
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Hash/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	386b9ed884f3af6c20dca6d5fbefbb91
+# Source0-md5:	508015312eb08cd2bcea987c4efbb93d
 URL:		http://search.cpan.org/dist/Hash-MultiValue/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
