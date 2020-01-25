@@ -4,7 +4,6 @@
 
 %define		pdir	Hash
 %define		pnam	MultiValue
-%include	/usr/lib/rpm/macros.perl
 Summary:	Hash::MultiValue - Store multiple values per key
 Name:		perl-Hash-MultiValue
 Version:	0.16
